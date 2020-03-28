@@ -1,5 +1,7 @@
 # EasyMark
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/383bb2b1e3d4461db172cdd07014bf91)](https://app.codacy.com/manual/Shouheng88/EasyMark?utm_source=github.com&utm_medium=referral&utm_content=Shouheng88/EasyMark&utm_campaign=Badge_Grade_Dashboard)
+
 EasyMark is an open source project, aim at providing a markdown editor and viewer for better performance. This project used to be one part of my another open source app [MarkNote](https://github.com/Shouheng88/MarkNote). If you are interested in building an markdown note-taking application, you can refer to that project at [https://github.com/Shouheng88/MarkNote](https://github.com/Shouheng88/MarkNote).
 
 ## Functions
